@@ -1,0 +1,3 @@
+# laravel微商城
+1.基于easywechat开发的微信公众号支付功能
+用到了vue全家桶技术和laravel结合
